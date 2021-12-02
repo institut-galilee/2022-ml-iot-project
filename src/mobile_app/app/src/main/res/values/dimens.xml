@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_xsmall">160dp</dimen>
+    <dimen name="round_button_large">92dp</dimen>
+    <dimen name="shutter_button_margin">80dp</dimen>
+</resources>

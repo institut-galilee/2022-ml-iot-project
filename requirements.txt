@@ -1,0 +1,11 @@
+dbus-python==1.2.18
+diff-match-patch==20200713
+grpcio==1.42.0
+grpcio-tools==1.42.0
+protobuf==3.19.1
+pycairo==1.20.1
+pygi==1.0.3
+PyGObject==3.42.0
+python-Levenshtein==0.12.2
+six==1.16.0
+watchdog==2.1.6
