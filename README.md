@@ -1,4 +1,4 @@
-# 2021-ExamMonitoringSystem
+# 2024-ExamMonitoringSystem
 
 <p align="center">
     <img src="doc/img/ExamMonitoringSystem_minimal_configuration.png" width="700px" alt="ExamMonitoringSystem_minimal_configuration">
@@ -23,8 +23,8 @@ Please feel free to report any bug that you encounter while using the system. Yo
 Feel free also to provide suggestions for improvement or additional features that you want to see in the system. Again, simply create a new issue.
 
 ## Credits
-* Massinissa HAMIDI (hamidi@lipn.univ-paris13.fr)
-* an original idea of Aomar Osmani (ao@lipn.univ-paris13.fr)
+* Aomar Osmani (ao@lipn.univ-paris13.fr)
+* Massinissa HAMIDI (hamidi@lipn.univ-paris13.fr) 
 * all students who will contribute for the improvement of the system
 
 ## License
